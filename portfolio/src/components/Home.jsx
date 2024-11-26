@@ -11,7 +11,7 @@ const Home = () => {
         "Welcome to my profile",
         "Myself  Niloy Mondal",
         "I'm  MERN Developer",
-        "Androide Developer (React Native)",
+        "Pursuing Masters at IIT Hyderabad",
       ],
       typeSpeed: 50,
       backSpeed: 50,

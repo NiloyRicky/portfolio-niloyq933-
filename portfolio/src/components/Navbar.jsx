@@ -1,32 +1,31 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Navbar = () => {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
   return (
-    <>
-      <div className="container nav_bar"
-      data-aos="fade-down"
-      data-aos-duration="1000" 
-      >
-        <div className="left nav_items">Portfolio</div>
-        <div className="right">
+    <nav>
+      <div className="container nav_bar" data-aos="fade-down" data-aos-duration="1000">
+        <div className="left nav_items"></div>
+        <div className="menu-toggle" onClick={() => setIsMenuOpen(!isMenuOpen)}>
+          <span className="menu-icon">☰</span>
+        </div>
+        <div className={`right ${isMenuOpen ? "menu-open" : ""}`}>
           <a href="#home" className="nav_items">
             Home
           </a>
           <a href="#experience" className="nav_items">
-            Experience
-          </a>
-          <a href="#skills" className="nav_items">
-            Skills
+            About
           </a>
           <a href="#projects" className="nav_items">
-            Projects
+            Portfolio
           </a>
           <a href="#contact" className="nav_items">
             Contact
           </a>
         </div>
       </div>
-    </>
+    </nav>
   );
 };
 

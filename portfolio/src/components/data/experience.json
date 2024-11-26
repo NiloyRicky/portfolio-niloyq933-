@@ -3,39 +3,31 @@
       "id": 1,
       "role": "Web Developer Intern",
       "organisation": "Q-DITS",
-      "startDate": "July, 2024",
-      "endDate": "October,2024",
-      "location": "Remote",
+      "startDate": "July 2024",
+      "endDate": "October 2024",
+      
       "experiences": [
-        "Worked on Stock Explorer App",
-        "Optiized the performance of app by implementing de-bouncing"
+        "Worked on feature-rich Stock Explorer App",
+        "Collaborated with Quant team for stocks insights"
       ],
-      "imageSrc": "company/google.png"
+      "imageSrc": "company/logo.webp",
+      "file":"company/niloy.png",
+      "fileType":"file.png"
     },
     {
       "id": 2,
-      "role": "Software Development Engineer SDE - I",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2022",
-      "endDate": "Aug, 2023",
-      "location": "London, UK",
+      "role": "Advance React",
+      "organisation": "Meta",
+      "startDate": "Dec 2023",
+      "endDate": "Jan 2023",
+      
       "experiences": [
-        "Worked on Windows 10 terminal",
-        "Worked on Window 11 Upcoming features"
+        "Completed assignments on varoius topics ",
+        "Hands on experience on projects"
       ],
-      "imageSrc": "company/microsoft.png"
-    },
-    {
-      "id": 3,
-      "role": "Software Development Engineer - Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2021",
-      "endDate": "Jun, 2022",
-      "location": "Bengluru, India",
-      "experiences": [
-        "Worked on Nextflix payment system",
-        "Helped to create UI for video player"
-      ],
-      "imageSrc": "company/netflix.png"
+      "imageSrc": "company/meta.png",
+      "file":"company/coursera.pdf",
+      "fileType":"file.pdf"
     }
+ 
   ]

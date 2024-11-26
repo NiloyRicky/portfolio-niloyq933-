@@ -2,33 +2,45 @@
     {
       "key": 1,
       "title": "Tech News App",
-      "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-      "description": "This is a Front-end Project using React js.",
-      "demo": "https://www.example.com",
+      "imageSrc": "https://img.freepik.com/free-vector/news-new-media-devices_23-2147495900.jpg?semt=ais_hybrid",
+      "description": [
+        "A dynamic tech news app built using React, integrated with third-party APIs for real-time updates.",
+        "Features pagination and search functionality for better navigation and content discovery."
+      ],
+      "demo": "https://niloynewsapp.netlify.app/",
       "source": "https://www.github.com"
     },
     {
       "key": 2,
-      "title": "Taskify:Task Manager App",
-      "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-      "description": "Feature rich task manager app,using Local Storage for data persistent",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Task Manager App",
+      "imageSrc": "https://img.freepik.com/free-vector/appointment-booking-with-smartphone_23-2148554946.jpg?ga=GA1.1.1687628802.1732603501&semt=ais_hybrid",
+      "description": [
+      "A feature-rich task manager app, leveraging local storage for seamless data persistence without external databases.",
+      "Includes advanced features like task deletion, search, and filtering by priority and date, along with real-time task status monitoring."
+      ],
+      "demo": "https://taskify-niloy.netlify.app/",
+      "source": "https://github.com/NiloyRicky/TASK-NILOY--.git"
     },
     {
       "key": 3,
       "title": "Shoppers Stop",
-      "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-      "description": "This is a project made with complete React js.",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "imageSrc": "https://img.freepik.com/free-vector/neon-landing-page-with-smartphone_23-2148345225.jpg?ga=GA1.1.1687628802.1732603501&semt=ais_hybrid",
+      "description": [
+          "A responsive and user-friendly e-commerce platform built with modern frontend technologies.",
+        "Features product listings, filtering options, and a dynamic shopping cart."
+      ],
+      "demo": "https://niloyricky.github.io/React-Website/",
+      "source": "https://github.com/NiloyRicky/React-Website.git"
     },
     {
       "key": 4,
-      "title": "Dice Game",
-      "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-      "description": "This is a project made with complete React js.",
+      "title": "Stock Explorer App",
+      "imageSrc": "https://img.freepik.com/free-photo/forex-trading-workplace_1409-5578.jpg?ga=GA1.1.1687628802.1732603501&semt=ais_hybrid",
+      "description": [
+        "Developed a responsive stock market application using React and Express.js to provide market insights.",
+        "Optimized page load times by 25% through efficient data management using React and PostgreSQL, ensuring quick navigation and data retrieval."
+      ],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/NiloyRicky/MERN-data.git"
     }
   ]
